@@ -2,29 +2,29 @@
 Logistic Regression Results:
               precision    recall  f1-score   support
 
-           0       0.86      0.83      0.85      1033
-           1       0.58      0.64      0.61       374
+           0       0.90      0.72      0.80      1033
+           1       0.50      0.78      0.61       374
 
-    accuracy                           0.78      1407
-   macro avg       0.72      0.74      0.73      1407
-weighted avg       0.79      0.78      0.78      1407
+    accuracy                           0.73      1407
+   macro avg       0.70      0.75      0.70      1407
+weighted avg       0.79      0.73      0.75      1407
 
 Random Forest Results:
               precision    recall  f1-score   support
 
-           0       0.85      0.86      0.86      1033
-           1       0.60      0.59      0.59       374
+           0       0.85      0.84      0.84      1033
+           1       0.56      0.58      0.57       374
 
-    accuracy                           0.79      1407
-   macro avg       0.73      0.72      0.73      1407
-weighted avg       0.79      0.79      0.79      1407
+    accuracy                           0.77      1407
+   macro avg       0.71      0.71      0.71      1407
+weighted avg       0.77      0.77      0.77      1407
 
 XGBoost Results:
               precision    recall  f1-score   support
 
-           0       0.87      0.81      0.84      1033
-           1       0.56      0.68      0.61       374
+           0       0.86      0.84      0.85      1033
+           1       0.58      0.61      0.60       374
 
-    accuracy                           0.77      1407
-   macro avg       0.72      0.74      0.73      1407
-weighted avg       0.79      0.77      0.78      1407
+    accuracy                           0.78      1407
+   macro avg       0.72      0.73      0.72      1407
+weighted avg       0.78      0.78      0.78      1407
