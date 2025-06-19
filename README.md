@@ -10,7 +10,6 @@ This project develops a predictive model to identify customers at risk of churni
 - **Churn Prediction Model**: 78% accuracy using XGBoost
 - **Feature Importance Analysis**: SHAP-based interpretability (extendable)
 - **Automated Pipeline**: End-to-end ML workflow
-- **Performance Monitoring**: Comprehensive model evaluation
 
 ## 📊 Model Performance
 
